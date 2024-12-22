@@ -4,3 +4,5 @@ windows uygulamaları
  kısayol ctrl + up / 
  down /
  left
+
+sound control
