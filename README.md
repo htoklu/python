@@ -1,0 +1,2 @@
+# python
+windows uygulamaları
