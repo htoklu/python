@@ -1,6 +1,6 @@
 # python
 windows uygulamaları
- ses seviyesi artır, azalt
+ ses seviyesini artır, azalt
 
  kısayol ctrl + up / 
  down /
